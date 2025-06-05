@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm  Deepanshu soni</h1>
-<h3 align="center">A  developer from India</h3>
+<h1 align="center">Hi 👋, I'm Deepanshu soni</h1>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Developer;Love%20React%20and%20Node.js;Always%20Learning%20New%20Tech!&center=true&width=500&height=45" />
@@ -15,22 +15,26 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ---
 
 ### 🚀 Cool Stuff I Like
 - 🔥 Building modern web apps
-- 🤖 Learning AI & backend scalability
+- ⚙️ Playing with APIs and Databases
 - 💡 Clean UI/UX with TailwindCSS
-- 🌱 Currently exploring advanced React patterns
+- 🌱 Exploring system design and backend architecture
 
 ---
 
-### 📈 GitHub Stats
+### 🎯 Tech Vibes
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hulk&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hulk&theme=tokyonight" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 </p>
 
 ---
